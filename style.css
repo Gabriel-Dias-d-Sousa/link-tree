@@ -12,7 +12,7 @@
     --black: #141414;
     --dark-grey: #1f1f1f;
     --white: #fff;
-    --neon-green: #C4F82A;
+    --light-blue: #ADD8E6;
     --grey: #333;
 }
 
@@ -51,7 +51,7 @@ h1{
 }
 
 strong{
-    color: var(--neon-green);
+    color: var(--light-blue);
     font-size: 14px;
 }
 
@@ -78,7 +78,7 @@ a{
 }
 
 a:hover{
-    background-color: var(--neon-green);
+    background-color: var(--light-blue);
     color: var(--grey);
     transition: 0.5s;
 }
